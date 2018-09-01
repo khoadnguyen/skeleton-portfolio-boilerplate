@@ -18,7 +18,7 @@ git clone https://github.com/khoadnguyen/skelaton-portfolio-boilerplate.git
 
 4. Follow the instructions to add your remote 
 
-````
+```
 git remote add origin https://github.com/YOURUSERNAME/YOURREPONAME.git
 ```
 
@@ -34,3 +34,13 @@ git push -u origin master
 All of the pages are tracked and hosted by Github. To create new pages, simply duplicate the index page and make another layout.
 
 Once you are finished, commit your changes to see it hosted. 
+
+Your changes should reflect on your Github pages once it is pushed.
+
+## Built With
+
+* [Skeleton](http://getskeleton.com/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
