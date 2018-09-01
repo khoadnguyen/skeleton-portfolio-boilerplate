@@ -1,5 +1,5 @@
-# Portfolio Boilerplate with Skelaton   
-This is a simple boilerplate for Skelaton that can be used with netlify or github pages to create a static site.
+# Portfolio Boilerplate with Skeleton   
+This is a simple boilerplate for Skeleton that can be used with netlify or github pages to create a static site.
 
 ## Getting Started
 **NOTE:** The `index.html` page is the entry way for your app if you plan to host via github pages, so please do not rename it if you intend to host it on github pages. 
